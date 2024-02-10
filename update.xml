@@ -1,4 +1,4 @@
-<!-- <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Debt Now App - Appcast</title>
@@ -9,8 +9,8 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
     </channel>
-</rss> -->
-<?xml version="1.0" encoding="utf-8"?>
+</rss>
+<!-- <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>For unit test only</title>
@@ -55,4 +55,4 @@
         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
     </item>
   </channel>
-</rss>
+</rss> -->
